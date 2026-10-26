@@ -125,7 +125,7 @@ float calculeazaPretPerIngredient(Prajitura p) {
 	return 0;
 }
 
-void main() {
+int main() {
 	Prajitura p;
 	p.afisare();
 	//Prajitura* pp;//apelam prin intermediul unui obiect
